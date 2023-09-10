@@ -20,9 +20,9 @@ Abaixo segue a lista de alguns exercícios e realizados.
 <a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/013/index.html">Executar Exercício 012</a><br>
 <a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/014/index.html">Executar Exercício 013</a><br>
 <a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/015/index.html">Executar Exercício 014</a><br>
-<a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/016/index.html">Executar Exercício 015</a><br>
-<a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/017/index.html">Executar Exercício 016</a><br>
-<a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/018/index.html">Executar Exercício 017</a><br>
-<a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/019/index.html">Executar Exercício 018</a><br>
-<a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/020/index.html">Executar Exercício 019</a><br>
-<a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/021/index.html">Executar Exercício 020</a><br>
+<a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/016/cor03.html">Executar Exercício 015</a><br>
+<a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/017/fonte01.html">Executar Exercício 016</a><br>
+<a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/018/fonte01.html">Executar Exercício 017</a><br>
+<a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/019/seletor.html">Executar Exercício 018</a><br>
+<a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/020/links.html">Executar Exercício 019</a><br>
+<a href="https://raphael-dev1988.github.io/HTML-e-CSS/exercicios/021/caixa02.html">Executar Exercício 020</a><br>
