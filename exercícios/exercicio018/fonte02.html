@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes Externas</title>
+    <style>
+
+        /*
+            Inserindo fonte externa extraída do dafont.com
+        */
+        @font-face {
+            font-family:'London';
+            src: url(fontes/OldLondon.ttf) format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+        
+        /*
+            Tipos de format()
+            - opentype (otf)
+            -truetype(ttf)
+            -embedded-opentype
+            -truetype-att(Apple Advanced Typography)
+            -svg
+
+        */
+
+        h1 {
+            font-family: 'London';
+            font-size: 4em;
+            font-style: italic;
+            font-weight: bold;
+
+        }
+
+        p {
+            font-family: 'London';
+            font-size: 1.8em;
+            font-weight: lighter;
+        }
+    </style>
+</head>
+<body>
+    <h1>Título</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos repellat tenetur totam optio vitae qui, eius quisquam aliquam laboriosam et quis dignissimos rerum vero ea, alias ad corrupti minus hic! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam quos assumenda, dolore facilis ea, veritatis cum officia excepturi dolorem est placeat porro modi magni at ducimus a minus laboriosam libero? Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit porro placeat accusantium numquam unde tempora amet, aspernatur illo aliquam dolorum explicabo at delectus laborum totam quam. Iusto ipsum eos deleniti? Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis at delectus aliquam eligendi fuga mollitia provident quos atque dignissimos, quia laudantium modi quod unde assumenda. Rem, nulla! Fugiat, quod impedit.</p>
+</body>
+</html>
